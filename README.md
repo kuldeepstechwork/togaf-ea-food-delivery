@@ -1,6 +1,6 @@
 # TOGAF Enterprise Architecture Case Study: ForkRoute
 
-**Disclaimer:** This repository is a fictional Enterprise Architecture case study created for portfolio and demonstration purposes. ForkRoute is an invented company — it is not a real organization, and nothing here describes, discloses, or is derived from the systems, data, or intellectual property of any real employer, client, or company, past or present. All figures, architectures, vendor comparisons, and cost estimates are illustrative, created for this exercise, and do not represent real financial or technical data. Any resemblance to actual companies, products, or systems is coincidental.
+**Disclaimer:** This is an illustrative TOGAF Enterprise Architecture case study modeling common, publicly known challenges in food delivery marketplaces — not a real engagement. ForkRoute is an invented name, not affiliated with any real company, and nothing here is based on confidential information from any real employer or client. All figures, vendor names, and technical details are constructed for this exercise.
 
 ---
 
@@ -40,3 +40,6 @@ This repository follows the TOGAF ADM phase structure. See **[TOGAF-ADM-MAPPING.
 This is written in **decision voice, not build voice**. You will not find "we deployed a Kafka cluster" — you will find "we evaluated three dispatch topologies, rejected two, and accepted a specific, quantified trade-off in choosing the third." Every phase document states the decision made, the alternatives that were seriously considered and rejected, the trade-offs accepted (cost, risk, timeline, complexity — illustrative but plausible figures), and which governance body or stakeholder group the decision is accountable to. The Architecture Decision Records in `adrs/` are the sharpest expression of this: each one is a single significant decision, argued on its merits, with consequences stated plainly — including the ones that cut against the recommendation.
 
 Start with [TOGAF-ADM-MAPPING.md](TOGAF-ADM-MAPPING.md) for the map of the whole repository, then [01-phase-a-vision-and-scope/executive-summary.md](01-phase-a-vision-and-scope/executive-summary.md) for the one-page version aimed at a CxO reader.
+
+---
+*Fictional case study — see disclaimer above for full context.*
